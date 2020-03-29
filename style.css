@@ -1,6 +1,9 @@
 #main{
-  background-color:#D3D3D3;
+  background-color:#17202A;
  border-radius:10px;
+}
+body{
+  color:silver;
 }
 #title,#img-caption{
   text-align:center;
@@ -14,6 +17,7 @@
   margin-left: auto;
   margin-right: auto;
   max-width: 100%;
+  border-radius:15px;
 }
 
 #img-caption{
@@ -22,4 +26,14 @@
 #img-div{
   background:white;
   padding:15px;
+  border-radius: 20px;
+}
+#img-caption{
+  color:tomato;
+}
+#tribute-link{
+color: navajowhite;
+}
+header p{
+  font-size:20px;
 }
